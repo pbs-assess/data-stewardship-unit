@@ -1,0 +1,34 @@
+# Quarto configuration file (needs reformatting)
+
+# Specify the output format for the website
+output_format: html_document
+
+# Specify the theme for the website
+theme:
+  name: modern
+
+# Specify the CSS file for custom styles
+styles:
+  - styles/custom.css
+
+# Specify the files to include in the website
+files:
+  - index.qmd
+  - about.qmd
+  - perspectives/data-life-cycle.qmd
+  - perspectives/your-role.qmd
+  - perspectives/data-domain.qmd
+  - perspectives/your-tasks.qmd
+  - perspectives/recommended-tool-stacks.qmd
+  - perspectives/national-and-regional-resources.qmd
+  - perspectives/training-resources.qmd
+
+# Paths for images to include in the website (note these are placeholder files)
+images:
+  - images/icons/data-life-cycle.png
+  - images/icons/your-role.png
+  - images/icons/data-domain.png
+  - images/icons/your-tasks.png
+  - images/icons/recommended-tool-stacks.png
+  - images/icons/national-and-regional-resources.png
+  - images/icons/training-resources.png

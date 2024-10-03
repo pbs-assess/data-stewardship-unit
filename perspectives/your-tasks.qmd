@@ -1,0 +1,30 @@
+# Your Tasks
+
+This page provides information and resources for various tasks in data stewardship. As an employee of Fisheries and Oceans Canada in the Pacific Region Science Branch, you have important responsibilities in managing and stewarding data. The following are some of the key tasks you may be involved in:
+
+## Publishing Data
+
+## Storing Data
+
+## Standardizing to Data/Metadata Standards
+
+## Accessing Other People's Data
+
+## Planning for Data Management
+
+## Submitting Research Proposals with Strong Data Management Aspects
+
+## Project Planning and Tracking
+
+## Data Analysis
+
+## Data/Information Product Creation
+
+Continue exploring the other perspectives on data stewardship:
+
+- [Data Life Cycle](data-life-cycle.qmd)
+- [Your Role](your-role.qmd)
+- [Data Domain](data-domain.qmd)
+- [Recommended Tool Stacks](recommended-tool-stacks.qmd)
+- [National and Regional Resources](national-and-regional-resources.qmd)
+- [Training Resources](training-resources.qmd)

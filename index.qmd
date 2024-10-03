@@ -1,0 +1,70 @@
+---
+title: Home
+---
+
+# Data Stewardship Website
+
+Welcome to the Data Stewardship Website for Fisheries and Oceans Canada employees in the Pacific Region Science Branch. This website provides support for your data stewardship and management responsibilities.
+
+## Search
+
+<!-- Add search function here -->
+
+## Perspectives
+
+<div class="perspectives">
+  <a href="perspectives/data-life-cycle.html">
+    <div class="perspective-box">
+      <img src="images/icons/data-life-cycle.png" alt="Data Life Cycle">
+      <h3>Data Life Cycle</h3>
+    </div>
+  </a>
+  <a href="perspectives/your-role.html">
+    <div class="perspective-box">
+      <img src="images/icons/your-role.png" alt="Your Role">
+      <h3>Your Role</h3>
+    </div>
+  </a>
+  <a href="perspectives/data-domain.html">
+    <div class="perspective-box">
+      <img src="images/icons/data-domain.png" alt="Data Domain">
+      <h3>Data Domain</h3>
+    </div>
+  </a>
+  <a href="perspectives/your-tasks.html">
+    <div class="perspective-box">
+      <img src="images/icons/your-tasks.png" alt="Your Tasks">
+      <h3>Your Tasks</h3>
+    </div>
+  </a>
+  <a href="perspectives/recommended-tool-stacks.html">
+    <div class="perspective-box">
+      <img src="images/icons/recommended-tool-stacks.png" alt="Recommended Tool Stacks">
+      <h3>Recommended Tool Stacks</h3>
+    </div>
+  </a>
+  <a href="perspectives/national-and-regional-resources.html">
+    <div class="perspective-box">
+      <img src="images/icons/national-and-regional-resources.png" alt="National and Regional Resources">
+      <h3>National and Regional Resources</h3>
+    </div>
+  </a>
+  <a href="perspectives/training-resources.html">
+    <div class="perspective-box">
+      <img src="images/icons/training-resources.png" alt="Training Resources">
+      <h3>Training Resources</h3>
+    </div>
+  </a>
+</div>
+
+## About
+
+[About the Data Stewardship Unit](about.html)
+
+## Dashboard
+
+<!-- Add customizable dashboard here -->
+
+## License
+
+This work is licensed under a [CC BY 4.0](LICENSE) license.
