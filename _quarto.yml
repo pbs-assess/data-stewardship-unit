@@ -1,34 +1,38 @@
-# Quarto configuration file (needs reformatting)
+project: 
+  type: website
 
-# Specify the output format for the website
-output_format: html_document
 
-# Specify the theme for the website
-theme:
-  name: modern
+website: 
+  title: "Data Stewardship Unit"
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "This site is under construction. Bear with us!"
+    type: primary
+    position: below-navbar
+  navbar: 
+    left: 
+      - href: index.qmd
+        text: Home
+      - text: "Perspectives"
+        menu: 
+          - perspectives/data-life-cycle.qmd
+          - perspectives/your-role.qmd
+          - perspectives/data-domain.qmd
+          - perspectives/your-tasks.qmd
+          - perspectives/recommended-tools.qmd
+          - perspectives/national-and-regional-resources.qmd
+      - href: training-resources.qmd
+        text: Training
+      - href: about.qmd
+        text: About
+    search: true
+  repo-url: https://github.com/pbs-assess/data-stewardship-unit
+  repo-actions: [edit, source, issue]
+  page-footer: "This work is licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). Built with 💖 and Quarto." 
 
-# Specify the CSS file for custom styles
-styles:
-  - styles/custom.css
-
-# Specify the files to include in the website
-files:
-  - index.qmd
-  - about.qmd
-  - perspectives/data-life-cycle.qmd
-  - perspectives/your-role.qmd
-  - perspectives/data-domain.qmd
-  - perspectives/your-tasks.qmd
-  - perspectives/recommended-tool-stacks.qmd
-  - perspectives/national-and-regional-resources.qmd
-  - perspectives/training-resources.qmd
-
-# Paths for images to include in the website (note these are placeholder files)
-images:
-  - images/icons/data-life-cycle.png
-  - images/icons/your-role.png
-  - images/icons/data-domain.png
-  - images/icons/your-tasks.png
-  - images/icons/recommended-tool-stacks.png
-  - images/icons/national-and-regional-resources.png
-  - images/icons/training-resources.png
+format:
+  html: 
+    theme: cosmo
+    css: styles.css
+    toc: true

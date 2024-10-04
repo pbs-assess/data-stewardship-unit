@@ -2,9 +2,7 @@
 title: About
 ---
 
-# About
+The Data Stewardship Unit (DSU) serves the Pacific Region Science Branch. 
 
-The Data Stewardship Unit serving the Pacific Region Science Branch
-
-The Data Stewardship Unit is dedicated to supporting Fisheries and Oceans Canada employees working in the Pacific Region Science Branch with their data stewardship and management responsibilities. Our goal is to make data stewardship easier and aid in the creation of reproducible data products.
+The DSU is dedicated to supporting Fisheries and Oceans Canada employees working in the Pacific Region Science Branch with their data stewardship and management responsibilities. Our goal is to make data stewardship easier and aid in the creation of reproducible data products.
 

@@ -1,7 +1,6 @@
 ---
-title: Data Life Cycle
+type: website
 ---
-
 # Data Life Cycle
 
 The data life cycle refers to the stages that data goes through from its creation to its archival or disposal. Understanding the data life cycle is essential for effective data stewardship and management. This page provides an overview of the data life cycle stages and resources to support each stage.

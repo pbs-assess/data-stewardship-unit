@@ -1,8 +1,7 @@
 ---
-title: Recommended Tool Stacks
+title: Recommended Tools
 ---
 
-# Recommended Tool Stacks
 
 In the field of data stewardship, there are several tools and technologies that can greatly assist in managing and analyzing data. Here are some recommended tool stacks that can enhance your data stewardship practices:
 

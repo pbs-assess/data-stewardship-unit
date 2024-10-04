@@ -1,4 +1,7 @@
-# Your Tasks
+---
+title: Your Tasks
+---
+
 
 This page provides information and resources for various tasks in data stewardship. As an employee of Fisheries and Oceans Canada in the Pacific Region Science Branch, you have important responsibilities in managing and stewarding data. The following are some of the key tasks you may be involved in:
 

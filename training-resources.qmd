@@ -2,7 +2,6 @@
 title: Training Resources
 ---
 
-# Training Resources
 
 Welcome to the Training Resources page of the Data Stewardship Unit website! Here, you will find a collection of training resources to enhance your skills and knowledge in data stewardship.
 

@@ -2,7 +2,6 @@
 title: Data Domain
 ---
 
-# Data Domain
 
 This page provides information and resources related to different data domains in the Pacific Region Science Branch of Fisheries and Oceans Canada.
 
