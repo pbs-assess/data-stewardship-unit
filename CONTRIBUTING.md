@@ -7,6 +7,6 @@ This document will host detailed instructions on working with the quarto repo an
 - Each time the `_quarto.yml` is changed, you will need to run `quarto_render()` to see the changes locally.
 
 # Resources
-[Quarto Website Documentation](https://quarto.org/docs/websites/)
-[Github Pages](https://quarto.org/docs/publishing/github-pages.html)
-[Rendering for CI](https://quarto.org/docs/publishing/ci.html#rendering-for-ci)
+- [Quarto Website Documentation](https://quarto.org/docs/websites/)
+- [Github Pages](https://quarto.org/docs/publishing/github-pages.html)
+- [Rendering for CI](https://quarto.org/docs/publishing/ci.html#rendering-for-ci)
