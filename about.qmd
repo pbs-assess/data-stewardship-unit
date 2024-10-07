@@ -1,8 +1,12 @@
 ---
 title: About
+about:
+  template: jolla
+  image: images/logo.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/pbs-assess/data-stewardship-unit
 ---
 
-The Data Stewardship Unit (DSU) serves the Pacific Region Science Branch. 
-
-The DSU is dedicated to supporting Fisheries and Oceans Canada employees working in the Pacific Region Science Branch with their data stewardship and management responsibilities. Our goal is to make data stewardship easier and aid in the creation of reproducible data products.
-
+The Data Stewardship Unit (DSU) serves the Pacific Region Science Branch. The DSU is dedicated to supporting Fisheries and Oceans Canada employees working in the Pacific Region Science Branch with their data stewardship and management responsibilities. Our goal is to make data stewardship easier and aid in the creation of reproducible data products.

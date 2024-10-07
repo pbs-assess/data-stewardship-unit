@@ -14,6 +14,7 @@ The project has the following files and directories:
 - `images/icons/`: Directory containing image icons for the pages.
 - `styles/custom.css`: Custom CSS styles for the website.
 - `README.md`: Documentation for the project.
+- `CONTRIBUTING.md`: Instructions for contributing to the website. 
 
 ## Getting Started
 

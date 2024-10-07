@@ -24,6 +24,8 @@ website:
           - perspectives/national-and-regional-resources.qmd
       - href: training-resources.qmd
         text: Training
+      - href: the-team.qmd
+        text: Our Team
       - href: about.qmd
         text: About
     search: true
@@ -34,5 +36,4 @@ website:
 format:
   html: 
     theme: cosmo
-    css: styles.css
     toc: true
