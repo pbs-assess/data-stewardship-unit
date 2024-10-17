@@ -28,6 +28,6 @@ Continue exploring the other perspectives on data stewardship:
 - [Data Life Cycle](data-life-cycle.qmd)
 - [Your Role](your-role.qmd)
 - [Data Domain](data-domain.qmd)
-- [Recommended Tool Stacks](recommended-tool-stacks.qmd)
+- [Recommended Tool Stacks](recommended-tools.qmd)
 - [National and Regional Resources](national-and-regional-resources.qmd)
-- [Training Resources](training-resources.qmd)
+- [Training Resources](../training-resources.qmd)

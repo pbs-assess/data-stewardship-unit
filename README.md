@@ -18,11 +18,12 @@ The project has the following files and directories:
 
 ## Getting Started
 
-To run the website locally, follow these steps:
+To run the website locally, follow these steps in the terminal:
 
-1. Clone the repository with git by running `git clone https://github.com/pbs-assess/data-stewardship-unit.git` in terminal. 
+1. Clone the repository with git by running `git clone https://github.com/dfo-pacific-science/data-stewardship-unit.git` in terminal. 
 2. Install the required dependencies: `R -e "install.packages('quarto')"`
-3. Preview the website: `R -e "quarto::quarto_render("index.qmd")"`
+3. Preview the website by running `quarto render`
+4. To publish the site, merge commits to the main branch. For information on publishing, refer to the contribution information below.
 
 ## Contributing
 

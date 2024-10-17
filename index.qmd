@@ -1,4 +1,6 @@
-# Data Stewardship Unit
+---
+title: Data Stewardship Unit
+---
 
 Welcome to the Data Stewardship Website for Fisheries and Oceans Canada employees in the Pacific Region Science Branch. This website provides support for your data stewardship and management responsibilities.
 
@@ -32,7 +34,7 @@ Browse our resources by your perspective.
             text-decoration: none;
             color: inherit;
             transition: background-color 0.3s, transform 0.3s;
-            border-radius: 15px; 
+            border-radius: 15px;
         }
         .tile:hover {
             background-color: #e0e0e0;
@@ -54,10 +56,10 @@ Browse our resources by your perspective.
             width: 100%;
             border-radius: 0px 0px 15px 15px; /* Rounded edges */
         }
-    </style>
+      </style>
 </head>  
 
-
+<body>
 <div class="container">
   <a href="perspectives/data-life-cycle.qmd" class="tile">
     <img src="images/icons/data-life-cycle.svg" alt="Data Life Cycle" class="image">
@@ -84,7 +86,7 @@ Browse our resources by your perspective.
       <div class="title">National and Regional Resources</div>
   </a>
 </div>
-
+</body>
 
 ## Dashboard
 
