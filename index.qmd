@@ -78,7 +78,7 @@ Browse our resources by your perspective.
       <div class="title">Your Tasks</div>
   </a>
   <a href="perspectives/recommended-tools.qmd" class="tile">
-      <img src="images/icons/recommended-tool-stacks.svg" alt="Recommended Tools" class="image">
+      <img src="images/icons/recommended-tools.svg" alt="Recommended Tools" class="image">
       <div class="title">Recommended Tools</div>
   </a>
   <a href="perspectives/national-and-regional-resources.qmd" class="tile">
