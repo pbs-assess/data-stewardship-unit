@@ -10,11 +10,7 @@ Welcome to the Data Stewardship Website for Fisheries and Oceans Canada employee
 
 Browse our resources by your perspective. 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tile Layout</title>
-    <style>
+<style>
         .container {
             display: flex;
             flex-wrap: wrap;
@@ -35,6 +31,7 @@ Browse our resources by your perspective.
             color: inherit;
             transition: background-color 0.3s, transform 0.3s;
             border-radius: 15px;
+            flex-wrap: wrap;
         }
         .tile:hover {
             background-color: #e0e0e0;
@@ -46,7 +43,7 @@ Browse our resources by your perspective.
             margin: auto;
             transition: transform 0.3s;
         }
-        .tile:hover .image {
+        .image {
             transform: scale(1.1);
         }
         .title {
@@ -56,10 +53,9 @@ Browse our resources by your perspective.
             width: 100%;
             border-radius: 0px 0px 15px 15px; /* Rounded edges */
         }
-      </style>
-</head>  
+</style>
 
-<body>
+
 <div class="container">
   <a href="perspectives/data-life-cycle.qmd" class="tile">
     <img src="images/icons/data-life-cycle.svg" alt="Data Life Cycle" class="image">
@@ -81,12 +77,12 @@ Browse our resources by your perspective.
       <img src="images/icons/recommended-tools.svg" alt="Recommended Tools" class="image">
       <div class="title">Recommended Tools</div>
   </a>
-  <a href="perspectives/national-and-regional-resources.qmd" class="tile">
-      <img src="images/icons/national-and-regional-resources.svg" alt="National and Regional Resources" class="image">
-      <div class="title">National and Regional Resources</div>
+  <a href="perspectives/national-and-regional-resources.qmd" class="tile"> 
+    <img src="images/icons/national-and-regional-resources.svg" alt="National and Regional Resources" class="image">
+    <div class="title">National and Regional Resources</div>
   </a>
 </div>
-</body>
+
 
 ## Dashboard
 
@@ -97,5 +93,3 @@ The dashboard is in construction ╰(*°▽°*)╯
 ## About This Site
 
 This site was created with [Quarto](https://quarto.org/) by Brett Johnson and Albury C. and is hosted with [Github Pages](https://pages.github.com/). The user perspectives were inspired by the [ELIXIR RDMKit site](https://rdmkit.elixir-europe.org/). Icons from [Font Awesome](https://fontawesome.com/). For problems with the site, please [create a Github issue](https://github.com/pbs-assess/data-stewardship-unit/issues/new) or contact [Albury C.](mailto:catalina.albury@dfo-mpo.gc.ca)
-
-
