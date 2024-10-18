@@ -29,4 +29,3 @@ Python is a versatile programming language that is widely used in data science a
 
 GitHub is a web-based platform for version control and collaboration. It allows you to store and manage your code repositories, track changes, and collaborate with others on software development projects. GitHub also provides hosting for documentation and websites, making it a convenient platform for sharing data stewardship resources.
 
-### Important R Packages
